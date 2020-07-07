@@ -1,0 +1,42 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+table {
+  border:2px solid blue;
+}
+
+th {
+ background: #F5F5F5;
+ 
+}
+
+td {
+  width: 300px;
+  border-bottom: 1px solid #F5F5F5;
+  padding:10px;
+}
+
+.sub-head {
+  font-weight: 100;
+}
+
+.balance{
+  text-align: right;
+}
+.account {
+  color : #006699;
+  font-weight: bolder;
+}
+.errBal{
+  color:red;
+  font-weight: 600;
+}
+.successBal{
+  color:#00CC33;
+  font-weight: 500;
+}
+
+.load{
+  text-align: center;
+}
